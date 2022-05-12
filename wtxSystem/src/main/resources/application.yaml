@@ -1,0 +1,6 @@
+server:
+  port: 9090
+
+tool:
+  path: C:\Users\cws\Desktop\main\ppp
+  updateFrequency: 2
